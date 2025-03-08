@@ -1,0 +1,14 @@
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\bin\Debug\net9.0\Vector.exe
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\bin\Debug\net9.0\Vector.deps.json
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\bin\Debug\net9.0\Vector.runtimeconfig.json
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\bin\Debug\net9.0\Vector.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\bin\Debug\net9.0\Vector.pdb
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.AssemblyInfoInputs.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.AssemblyInfo.cs
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\refint\Vector.dll
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.pdb
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\Vector.genruntimeconfig.cache
+C:\Users\MSI LAPTOP\Desktop\Poryectos Progra\Vector\obj\Debug\net9.0\ref\Vector.dll
